@@ -1,4 +1,5 @@
 #!/bin/bash
+
 DIR71="/sys/class/gpio/gpio71"
 DIR233="/sys/class/gpio/gpio233"
 if [ ! -d "$DIR71" ];
